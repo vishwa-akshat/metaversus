@@ -40,18 +40,6 @@ To get started with Metaversus, follow these steps:
 
     The landing page will be available at `http://localhost:3000`.
 
-4. **Customize Your Content:**
-
-    Edit the content and animations in the `pages/index.js` file to showcase your project or portfolio effectively.
-
-5. **Customize Styling:**
-
-    Tailwind CSS styles can be easily customized in the `styles/tailwind.css` file. Change colors, fonts, and layout to fit your branding.
-
-6. **Deployment:**
-
-    Once you are satisfied with your changes, you can deploy your Metaversus landing page using your preferred hosting provider.
-
 ## Demo
 
 You can see a live demo of Metaversus [here](https://metaversus-lake.vercel.app/).
